@@ -20,6 +20,7 @@ MediaPipe Tasks requires a hand landmark model file.
 Create a models directory and download the model:
 
 -mkdir -p models
+
 -curl -L -o models/hand_landmarker.task \
 https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task
 
