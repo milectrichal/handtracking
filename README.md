@@ -21,7 +21,9 @@ https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/
 
 Usage
 1.Clone or download this repository.
+
 2.Navigate to the directory containing the script.
+
 3.Run the script using Python:
 - python handtracking.py
 
