@@ -13,6 +13,7 @@ Before running the script, ensure you have the following installed:
 -A working webcam
 
 Install the required packages:
+
 -pip install opencv-python mediapipe
 
 Model Setup (Required)
